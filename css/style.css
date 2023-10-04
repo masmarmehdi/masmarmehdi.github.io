@@ -114,7 +114,7 @@ header .navbar ul {
 header .navbar ul li a {
   display: block;
   padding: 1rem;
-  margin: 1.5rem 0;
+  margin: 10px;
   background: #22a2d0;
   color: #fff;
   font-size: 2rem;
@@ -164,7 +164,7 @@ header .navbar ul li a:hover {
 li {
   font-size: 2rem;
   color: #eee;
-  padding: 1rem 0;
+  padding: 2px;
 }
 
 .heading {
