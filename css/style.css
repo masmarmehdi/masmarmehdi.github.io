@@ -78,8 +78,8 @@ header {
 }
 
 header .user img {
-  height: 17rem;
-  width: 17rem;
+  height: 15rem;
+  width: 15rem;
   border-radius: 50%;
   object-fit: cover;
   margin-bottom: 1rem;
@@ -87,6 +87,9 @@ header .user img {
   margin-top: 15px;
 }
 
+.header-container {
+  margin: 10px;
+}
 header .user .name {
   font-size: 3.5rem;
   color: #fff;
